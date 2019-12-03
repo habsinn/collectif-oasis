@@ -1,0 +1,94 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "Collectif jeune public l'OASIS"
+theme = "personal-web"
+copyright="© Copyleft - Collectif l'OASIS"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = " "
+  sub = "Collectif national de spectacles Jeune Public au festival d'Aurillac"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[params]
+  breadcrumb = true
+  accentColor = "#F6EE1E"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Mince!'
+  p = "On dirait que cette page n'existe plus...Revenez a la page d'accueil: collectif-oasis.org"
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/aurillac-2019.jpg' # header background image
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/logo-oasis-fondbleu.png"
+
+  [params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  facebook = "https://www.facebook.com/"
+  youtube = "https://www.youtube.com/"
+  github = "https://github.com/"
+
+[params.contact]
+  email = "remi.vidal@joey-le-spectacle.com"
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "> Un collectif, 12 compagnies, 16 spectacles"
+  title = ""
+  url = "/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "blog"
+  name = "> Actualités"
+  title = "Blog section"
+  url = "/actualites/"
+  weight = -110
+  
+[[menu.main]]
+  identifier = "portfolio"
+  name = "> Nous contacter"
+  title = "nous contacter"
+  url = "/nous-contacter/"
+  weight = -100
+
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false

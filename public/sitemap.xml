@@ -4,21 +4,21 @@
   
   <url>
     <loc>/actualites/</loc>
-    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/actualites/1.bilan-aurillac-2019/</loc>
-    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
+    <lastmod>2020-01-08T10:39:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
+    <lastmod>2020-01-08T10:39:27+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/actualites/dossier-spectacles-2019/</loc>
+    <lastmod>2020-01-08T10:39:27+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -30,7 +30,19 @@
   </url>
   
   <url>
+    <loc>/compagnies/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/compagnies/spectacles-2020/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

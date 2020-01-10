@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ACTUALITES on Collectif jeune public l&#39;OASIS</title>
+    <title>Actualités on Collectif jeune public l&#39;OASIS</title>
     <link>/actualites/</link>
-    <description>Recent content in ACTUALITES on Collectif jeune public l&#39;OASIS</description>
+    <description>Recent content in Actualités on Collectif jeune public l&#39;OASIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>© Copyleft - Collectif l&#39;OASIS</copyright>
-    <lastBuildDate>Mon, 29 Apr 2019 16:18:12 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 10:39:27 +0100</lastBuildDate>
     
 	<atom:link href="/actualites/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bilan Aurillac 2019</title>
-      <link>/actualites/1.bilan-aurillac-2019/</link>
-      <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
+      <title>Dossier des spectacles 2019</title>
+      <link>/actualites/dossier-spectacles-2019/</link>
+      <pubDate>Wed, 08 Jan 2020 10:39:27 +0100</pubDate>
       
-      <guid>/actualites/1.bilan-aurillac-2019/</guid>
-      <description>&lt;p&gt;Voici un bilan de cette 2eme edition du Collectif l&amp;rsquo;OASIS, qui a regroupe 12 compagnies venant des 4 coins de la France&amp;hellip;&lt;/p&gt;</description>
+      <guid>/actualites/dossier-spectacles-2019/</guid>
+      <description>Les fiches résumé des spectacles sont consultables et téléchargeables ici:</description>
     </item>
     
   </channel>

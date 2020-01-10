@@ -34,11 +34,10 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '/images/aurillac-2019.jpg' # header background image
+  backgroundImage = '/images/oasisbanniere.png' # header background image
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/logo-oasis-fondbleu.png"
 
-  [params.assets]
+[params.assets]
   favicon = ""
   customCSS = ""
 
@@ -56,9 +55,17 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "> Un collectif, 12 compagnies, 16 spectacles"
+  name = "> Édito"
   title = ""
   url = "/"
+  weight = -130
+  
+  
+[[menu.main]]
+  identifier = ""
+  name = "> Compagnies & spectacles"
+  title = ""
+  url = "/compagnies/spectacles-2020"
   weight = -120
 
 [[menu.main]]

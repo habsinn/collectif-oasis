@@ -1,5 +1,5 @@
 ---
-title: Collectif l'OASIS
+title: Collectif l'Oasis
 description: 
 images: [""]
 ---
@@ -19,7 +19,7 @@ habitués des collectifs et des festivals, et qui souhaitent proposer leurs cré
 <br>
 <br>
 <p style="background-color:#112F41; text-align:left ; padding:25px 25px 25px 25px"><font color="#ffffff"> **L'OASIS, EN CHIFFRES**, c'est: <br>
---- 12 compagnies regroupant  **+ de 50 professionnels** des quatre coins de la France (Alsace, Ile de France, Limousin, Nouvelle Aquitaine, Occitanie, Pays de la Loire, Rhones Alpes), <br>
+--- 12 compagnies regroupant  **+ de 50 professionnels** des quatre coins de la France (Alsace, île-de-France, Limousin, Nouvelle Aquitaine, Occitanie, Pays de la Loire, Rhônes Alpes), <br>
 --- **16 spectacles** jeune public de 9h30 à 22h pendant 4 jours, <br>
 ---  **1 200 spectateurs** accueillis au festival d'Aurillac 2019.  </font> </p>
 <br>
@@ -30,10 +30,9 @@ Nous avons ainsi investi en 2018 et 2019 le [Centre social du Cap Blanc](https:/
 Une synergie joyeuse s'y est révélée ! Un désir d'aller plus loin et au plus près des publics a vu le jour ! Cette expérience nous a convaincu de reconduire le projet pour une **3ème édition en 2020**, et pourquoi pas, 
 dans un futur proche, de créer un projet de festival mobile et, ainsi, d'aller à la rencontre des spectateurs.
 
-Notre énergie positive est une force : c'est elle qui garantit la création d'un événement de qualité, riche et bienveillant." - *Rémi Vidal*
+Notre énergie positive est une force : c'est elle qui garantit la création d'un événement de qualité, riche et bienveillant." - *Rémi Vidal, Coordinateur de l'OASIS*
 <br>
 <br>
-### > Le dossier des spectacles...
-... et leurs fiches résumé sont consultables et téléchargeables juste ici:<br>
-<br>
-<embed src="/images/dossier-oasis-aurillac.pdf" width="560px" height="600px" />
+
+---> [Spectacles & compagnies de la 3ème édition - Aurillac 2020](http://localhost:1313/compagnies/spectacles-2020/). <br>
+---> [Année précédente : dossier de la 2ème édition](http://localhost:1313/actualites/dossier-spectacles-2019/). <br>

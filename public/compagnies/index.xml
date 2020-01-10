@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collectif l&#39;Oasis on Collectif jeune public l&#39;OASIS</title>
-    <link>/</link>
-    <description>Recent content in Collectif l&#39;Oasis on Collectif jeune public l&#39;OASIS</description>
+    <title>Compagnies on Collectif jeune public l&#39;OASIS</title>
+    <link>/compagnies/</link>
+    <description>Recent content in Compagnies on Collectif jeune public l&#39;OASIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>© Copyleft - Collectif l&#39;OASIS</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 10:39:27 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/compagnies/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Dossier des spectacles 2019</title>
-      <link>/actualites/dossier-spectacles-2019/</link>
-      <pubDate>Wed, 08 Jan 2020 10:39:27 +0100</pubDate>
-      
-      <guid>/actualites/dossier-spectacles-2019/</guid>
-      <description>Les fiches résumé des spectacles sont consultables et téléchargeables ici:</description>
-    </item>
     
     <item>
       <title>Spectacles de la 3ème édition (Aurillac 2020)</title>

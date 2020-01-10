@@ -10,3 +10,4 @@ Vous pouvez nous contacter tout au long de l'année pour construire un partenari
 - **Restauration (déjeuners)**:  La Lanterne Hurlante - lalanternehurlante@gmail.com ;
 - **Restauration (encas, goûters)**:  Caravane MIAM - m.i.a.m@lilo.org .
 
+![nous-contacter](/images/nous-contacter.jpg)

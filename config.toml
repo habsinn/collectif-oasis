@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = " "
-  sub = "Collectif national de spectacles Jeune Public au festival d'Aurillac"
+  sub = "Collectif de Spectacles Jeune Public, au festival d'Aurillac"
 
 [taxonomies]
   design = "designs"
@@ -55,7 +55,7 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "> Édito"
+  name = "> Collectif l'OASIS"
   title = ""
   url = "/"
   weight = -130

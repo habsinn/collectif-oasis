@@ -24,12 +24,6 @@
   </url>
   
   <url>
-    <loc>/nous-contacter/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/compagnies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,6 +31,12 @@
   
   <url>
     <loc>/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/nous-contacter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -18,7 +18,7 @@ NOTRE EXPÉRIENCE, ce sont **des compagnies, des artistes, des techniciens, des 
 habitués des collectifs et des festivals, et qui souhaitent proposer leurs créations dans les meilleures conditions pour leur public.
 <br>
 <br>
-<p style="background-color:#112F41; text-align:left ; padding:25px 25px 25px 25px"><font color="#ffffff"> **L'OASIS, EN CHIFFRES**, c'est: <br>
+<p style="background-color:#35358b; text-align:left ; padding:25px 25px 25px 25px"><font color="#ffffff"> **L'OASIS, EN CHIFFRES**, c'est: <br>
 --- 12 compagnies regroupant  **+ de 50 professionnels** des quatre coins de la France (Alsace, île-de-France, Limousin, Nouvelle Aquitaine, Occitanie, Pays de la Loire, Rhônes Alpes), <br>
 --- **16 spectacles** jeune public de 9h30 à 22h pendant 4 jours, <br>
 ---  **1 200 spectateurs** accueillis au festival d'Aurillac 2019.  </font> </p>

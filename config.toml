@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = " "
-  sub = "Collectif de Spectacles Jeune Public, au festival d'Aurillac"
+  sub = "COLLECTIF DE SPECTACLES JEUNE PUBLIC AU FESTIVAL D'AURILLAC"
 
 [taxonomies]
   design = "designs"
@@ -42,10 +42,8 @@ pygmentsCodeFences=true
   customCSS = ""
 
 [params.social]
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  github = "https://github.com/"
-
+  facebook = "https://www.kocoriko.fr/en/projects/l-oasis-collectif-jeune-public"
+  
 [params.contact]
   email = "remi.vidal@joey-le-spectacle.com"
   text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
@@ -63,7 +61,7 @@ pygmentsCodeFences=true
   
 [[menu.main]]
   identifier = ""
-  name = "> Compagnies & spectacles"
+  name = "> Compagnies et spectacles"
   title = ""
   url = "/compagnies/spectacles-2020"
   weight = -120

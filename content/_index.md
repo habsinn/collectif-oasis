@@ -38,6 +38,6 @@ Notre énergie positive est une force : c'est elle qui garantit la création d'u
 -*Rémi Vidal, Coordinateur de l'OASIS*-
 <br>
 <br>
-<br>
+<hr style="border-top: 1px solid #20195c; ">
 ---> [Spectacles & compagnies - 3ème édition (Aurillac 2020)](http://localhost:1313/compagnies/spectacles-2020/). <br>
 ---> [Année précédente : dossier de la 2ème édition](http://localhost:1313/actualites/dossier-spectacles-2019/). <br>

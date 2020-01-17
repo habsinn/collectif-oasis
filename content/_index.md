@@ -14,7 +14,7 @@ NOTRE PROJET, c'est un mini festival, incluant des spectacles, des infrastructur
 
 LE FAIRE VIVRE, c'est proposer **des spectacles, mais aussi des ateliers, des animations, à manger, à boire, des espaces de vie, de rencontres**, tout ça en utilisant notre expérience.
 
-![montage-photo-2.png](/images/montage-photo-2.png)
+![montage-photo-2.jpg](/images/montage-photo-2.jpg)
 
 
 NOTRE EXPÉRIENCE, ce sont des compagnies, des artistes, des techniciens, des diffuseurs et des administrateurs, qui sont sur le terrain depuis de nombreuses années, 

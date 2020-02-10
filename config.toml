@@ -53,7 +53,7 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "about"
-  name = "> Collectif l'OASIS"
+  name = ">> COLLECTIF L'OASIS"
   title = ""
   url = "/"
   weight = -130
@@ -61,21 +61,21 @@ pygmentsCodeFences=true
   
 [[menu.main]]
   identifier = ""
-  name = "> Compagnies et spectacles"
+  name = ">> COMPAGNIES ET SPECTACLE"
   title = ""
   url = "/compagnies/spectacles-2020"
   weight = -120
 
 [[menu.main]]
   identifier = "blog"
-  name = "> Actualités"
+  name = ">> ACTUALITÉS"
   title = "Blog section"
   url = "/actualites/"
   weight = -110
   
 [[menu.main]]
   identifier = "portfolio"
-  name = "> Nous contacter"
+  name = ">> NOUS CONTACTER"
   title = "nous contacter"
   url = "/nous-contacter/"
   weight = -100

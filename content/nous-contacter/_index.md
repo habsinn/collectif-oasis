@@ -4,7 +4,7 @@ description: ''
 ---
 Vous pouvez nous contacter tout au long de l'année pour co-construire un partenariat, proposer un spectacle Jeune Public et Familles, ou simplement nous rencontrer :
 
-- **Coordination & Médias**:   Rémi VIDAL - contact@collectif@oasis.fr ou 07 69 37 97 31 (basé à Aurillac);
+- **Coordination & Médias**:   Rémi VIDAL - contact@collectifoasis.fr ou 07 69 37 97 31 (basé à Aurillac);
 - **Diffusion**: contacts des chargés de diffusion disponible sur ce lien ;
 - **Régie son & lumières**:  Raphaël SIEFERT - siefert.raphael@gmail.com ;
 - **Restauration (déjeuners)**:  La Lanterne Hurlante - lalanternehurlante@gmail.com ;

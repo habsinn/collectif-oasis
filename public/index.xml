@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collectif l&#39;Oasis on Collectif jeune public l&#39;OASIS</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>© Copyleft - Collectif l&#39;OASIS</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 10:39:27 +0100</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 08 Jan 2020 10:39:27 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dossier des spectacles 2019</title>
       <link>/actualites/dossier-spectacles-2019/</link>
@@ -28,8 +24,7 @@
       
       <guid>/compagnies/spectacles-2020/</guid>
       <description>Suite à la réunion de bilan de l&amp;rsquo;automne 2019 et à plusieurs échanges de suivi au sein du collectif, la quasi-totalité des compagnies du Collectif l&amp;rsquo;OASIS ont confirmé leur ré-engagement pour le festival d&amp;rsquo;Aurillac 2020.
-Liste des compagnies : + Acroballes (Grand Est) : spectacle de feu ; + Cie du Butor (Île-de-France) : théâtre burlesque; + Cie l&amp;rsquo;Aurore (Nouvelle-Aquitaine) : marionnettes, clown, musique, détritus;
-+ Cie les Zanimos (Grand Est) : marionnettes ; + Cie Monde à part (Occitanie) : théâtre, musique ;</description>
+Liste des compagnies :  Acroballes (Grand Est) : spectacle de feu ;  Cie du Butor (Île-de-France) : théâtre burlesque;  [Cie l&amp;rsquo;Aurore] (http://compagnie-l-aurore.com/) (Nouvelle-Aquitaine) : marionnettes, clown, musique, détritus; Cie les Zanimos (Grand Est) : marionnettes ;  Cie Monde à part (Occitanie) : théâtre, musique ; Cie Ni (Grand Est) : cirque, burlesque ; Cie Nomadenko (Occitanie) : recyclage artistique, maquillage ; Cirque Pépin (Auvergne-Rhône-Alpes) : cirque ;  P&amp;rsquo;tits Bouts et Cie (Nouvelle-Aquitaine) : kamishibaï, marionnettes à fil, conte musical ; Tedua (Nouvelle-Aquitaine) : théatre, clown ; Trampoline Production (Centre-Val de Loire) : opéra rock ; V.</description>
     </item>
     
   </channel>
